@@ -1,0 +1,1 @@
+ftdetect for Thor
